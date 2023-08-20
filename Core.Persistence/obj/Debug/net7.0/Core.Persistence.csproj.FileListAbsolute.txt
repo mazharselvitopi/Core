@@ -1,0 +1,12 @@
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/bin/Debug/net7.0/Core.Persistence.deps.json
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/bin/Debug/net7.0/Core.Persistence.dll
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/bin/Debug/net7.0/Core.Persistence.pdb
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.AssemblyReference.cache
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/obj/Debug/net7.0/Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfoInputs.cache
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfo.cs
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.CoreCompileInputs.cache
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/obj/Debug/net7.0/Core.Persistence.dll
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/obj/Debug/net7.0/refint/Core.Persistence.dll
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/obj/Debug/net7.0/Core.Persistence.pdb
+/Users/mazharselvitopi/Projects/nArchitecture/src/Core/Core.Persistence/obj/Debug/net7.0/ref/Core.Persistence.dll
